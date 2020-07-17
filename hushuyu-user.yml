@@ -37,4 +37,5 @@ proxy-groups:
   - { name: PROXY, type: select, proxies: [ '百度云',DIRECT] }
 rules:
   - 'DOMAIN-SUFFIX,iqiyi.com,PROXY'
+  - 'DOMAIN-SUFFIX,qy.net,PROXY'
   - 'MATCH,DIRECT'
