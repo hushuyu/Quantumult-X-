@@ -35,8 +35,6 @@ proxies:
   - { name: '百度云', type: vmess, server: 106.13.166.147, port: 10086, uuid: 23ad6b18-8d7a-40f7-8ad0-e3e35cd36297, alterId: 64, cipher: auto, udp: true }
 proxy-groups:
   - { name: PROXY, type: select, proxies: [ '百度云',DIRECT] }
-  - { name: Final, type: select, proxies: [PROXY, DIRECT] }
 rules:
-  - 'DOMAIN-SUFFIX,baidu.com,PROXY'
-  - 'DOMAIN-SUFFIX,baidupcs.com,PROXY'
-  - 'MATCH,Final'
+  - 'DOMAIN-SUFFIX,iqiyi.com,PROXY'
+  - 'MATCH,DIRECT'
