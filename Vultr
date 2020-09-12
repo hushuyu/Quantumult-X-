@@ -47,7 +47,6 @@ proxy-groups:
     proxies:
       - DIRECT
 
-
 rules:
   - DOMAIN-SUFFIX,smtp,DIRECT
   - DOMAIN-KEYWORD,aria2,DIRECT
