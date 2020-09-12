@@ -27,7 +27,7 @@ proxies:
   -
     name: 'Vultr'
     type: vmess
-    server: 2001:19f0:7001:532f:5400:02ff:fef7:5e1c
+    server: 202.182.123.254
     port: 23233
     uuid: ffafedda-ffaa-4a63-83a5-23a3214405c8
     alterId: 0
