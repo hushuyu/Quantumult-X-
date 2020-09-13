@@ -155,7 +155,7 @@ proxies:
     # skip-cert-verify: true
  
 # 服务器节点订阅
-proxy-providers:
+#proxy-providers:
   # name: # Provider 名称
   #   type: http # http 或 file
   #   path: # 文件路径
@@ -212,7 +212,7 @@ proxy-groups:
     type: fallback
     proxies:
       - Herogo
-      - Direct
+      - Herogo
     url: 'http://www.gstatic.com/generate_204'
     interval: 300
  
@@ -222,14 +222,13 @@ proxy-groups:
     proxies:
       - Fallback
       - Herogo
-      - Direct
  
   # 白名单模式 PROXY, 黑名单模式 DIRECT, 不知道别动
   - name: "MATCH"
     type: select
     proxies:
       - PROXY
-      - DIRECT
+      - Herogo
  
   # 国际流媒体服务
   - name: "Streaming"
@@ -237,7 +236,6 @@ proxy-groups:
     proxies:
       - PROXY
       - Herogo
-      - Direct
  
   # 中国流媒体服务（面向海外版本）
   - name: "StreamingSE"
