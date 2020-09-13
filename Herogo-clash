@@ -243,7 +243,6 @@ proxy-groups:
     proxies:
       - DIRECT
       - Herogo
-      - Direct
  
   # 手动选择节点订阅
   #- name: "SuYing666"
