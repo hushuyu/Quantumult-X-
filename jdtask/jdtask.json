@@ -58,6 +58,5 @@
     "15 0-23/2 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "15 6-18/6 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true",
     "1 7-21/2 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
-    
   ]
 }
