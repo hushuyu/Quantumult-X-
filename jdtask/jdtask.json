@@ -38,6 +38,11 @@
     "10 * * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true",
     "20 13 * * 6 https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "0 9,12,18 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_jxnc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
+    "0 0 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
+    "2 0-23/4 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_cash.js, tag=签到领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+    "10 9 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_crazy_joy.js, tag=crazyJoy任务, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_crazy_joy.png, enabled=true",
+    "10 0 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_jdzz.js, tag=京东赚赚, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzz.png, enabled=true",
+    "10 0 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_kd.js, tag=京东快递签到, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true",
     
   ]
 }
