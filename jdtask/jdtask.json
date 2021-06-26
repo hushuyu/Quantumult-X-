@@ -58,5 +58,13 @@
     "15 0-23/2 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
     "15 6-18/6 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_pet.js, tag=东东萌宠, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdmc.png, enabled=true",
     "1 7-21/2 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/jdtask/jd_plantBean.js, tag=种豆得豆, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdzd.png, enabled=true",
+    "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/jddj.png, enabled=true",
+    "8 0 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+    "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/task/master/iQIYI.png, enabled=true",
+    "8 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mgtv/mgtv.js, tag=芒果TV, img-url=https://raw.githubusercontent.com/Orz-3/task/master/mgtv.png,enabled=true",
+    "0 8 * * * https://qxzy.top/rules/QuantumultX/js/jd_nian.js, tag=京东炸年兽🧨, img-url=https://qxzy.top/rules/QuantumultX/img/jd_nian.png, enabled=true",
+    "0 9 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/zqkdjsb.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true ",
+    "*/10 5-23 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/zqqd.js, tag=中青签到&转盘宝箱, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true",
+    "10 */2 * * * https://raw.githubusercontent.com/hushuyu/Quantumult-X-/master/zqzdyd.js, tag=中青自动阅读, img-url=https://raw.githubusercontent.com/erdongchanyo/icon/main/taskicon/Youth.png, enabled=true"
   ]
 }
