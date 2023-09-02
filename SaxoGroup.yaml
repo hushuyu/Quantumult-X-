@@ -1,1 +1,2 @@
-DOMAIN-KEYWORD,saxo,Proxy
+payload:
+  - DOMAIN-KEYWORD,saxo
