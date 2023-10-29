@@ -2,7 +2,7 @@ payload:
 # > HBO Asia
 - DOMAIN-SUFFIX,hbogoasia.com
 - DOMAIN-SUFFIX,hbogoasia.hk
-- DOMAIN-KEYWORD,.hbogoasia.
+#- DOMAIN-KEYWORD,hbogoasia
 - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 - DOMAIN,bcbolthboa-a.akamaihd.net
 - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
@@ -18,4 +18,4 @@ payload:
 - DOMAIN,hbounify-prod.evergent.com
 - DOMAIN,players.brightcove.net
 - DOMAIN,s3-ap-southeast-1.amazonaws.com
-- USER-AGENT,HBO%20GO%20PROD*
+#- USER-AGENT,HBO%20GO%20PROD*
