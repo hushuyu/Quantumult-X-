@@ -1,5 +1,4 @@
 # > HBO Asia
-USER-AGENT,HBO%20GO%20PROD*,StreamingSE
 DOMAIN-SUFFIX,hbogoasia.com,StreamingSE
 DOMAIN-SUFFIX,hbogoasia.hk,StreamingSE
 DOMAIN-KEYWORD,.hbogoasia.,StreamingSE
